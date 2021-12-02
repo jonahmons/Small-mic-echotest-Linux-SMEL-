@@ -17,4 +17,12 @@ Installation:
     sudo apt install pavucontrol
 
 
-    
+## Using 
+
+Put the test on:
+
+    ./testMic.sh on 
+
+Put the test off:
+
+    ./testMic.sh off
